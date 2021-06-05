@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# jetbrains
+.idea/
+
+# vscode
+.vscode
+
+# logs
+*.log
+test-*.xml
+
+# Unit test / coverage reports
+.coverage
+.tox
+.coverage.*
+coverage.xml
+cov.xml
+htmlcov
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
